@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/mahak-11-ai.png?size=400" width="150" alt="Mahak Nihalani profile photo">
 
 <h1>MAHAK NIHALANI</h1>
 
